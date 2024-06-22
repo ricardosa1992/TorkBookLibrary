@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary", "Torc.BookLibrary\Torc.BookLibrary.csproj", "{850839DF-2247-4B66-99AB-63DDA5F9B48F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary", "src\Torc.BookLibrary\Torc.BookLibrary.csproj", "{850839DF-2247-4B66-99AB-63DDA5F9B48F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary.Domain", "Torc.BookLibrary.Domain\Torc.BookLibrary.Domain.csproj", "{3E91AD09-DC02-473C-82B3-7BD224960B2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary.Domain", "src\Torc.BookLibrary.Domain\Torc.BookLibrary.Domain.csproj", "{3E91AD09-DC02-473C-82B3-7BD224960B2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{25B7F79B-6BB1-49F5-B749-1A3C89958FF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary.Persistence", "Torc.BookLibrary.Persistence\Torc.BookLibrary.Persistence.csproj", "{C4305D50-136C-4E26-A70F-D553ACD035D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torc.BookLibrary.Persistence", "src\Torc.BookLibrary.Persistence\Torc.BookLibrary.Persistence.csproj", "{C4305D50-136C-4E26-A70F-D553ACD035D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
