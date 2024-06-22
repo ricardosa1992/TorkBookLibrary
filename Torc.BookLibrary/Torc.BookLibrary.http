@@ -1,0 +1,6 @@
+@Torc.BookLibrary_HostAddress = http://localhost:5168
+
+GET {{Torc.BookLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
